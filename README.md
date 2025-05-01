@@ -52,8 +52,8 @@ Running language models locally can be **resource-intensive**, especially on CPU
 1. **Clone the project** and move into the directory:
 
 ```
-git clone <your-repo-url>
-cd <your-project-dir>
+git clone https://github.com/wkungu/ollama-lang-chat.git
+cd ollama-lang-chat
 ```
 
 2. **(Optional but recommended) Create a virtual environment:**
