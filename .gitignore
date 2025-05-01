@@ -1,0 +1,37 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+.envrc
+.venv/
+
+# VSCode settings
+.vscode/
+
+# Jupyter Notebook checkpoints (if applicable)
+.ipynb_checkpoints/
+
+# macOS system files
+.DS_Store
+
+# Logs
+*.log
+
+# Python egg metadata and build artifacts
+*.egg-info/
+dist/
+build/
+
+# Pytest cache
+.pytest_cache/
+
+# Ollama cache (if applicable in the future)
+ollama_models/
+
+# OS-generated files
+Thumbs.db
+ehthumbs.db
